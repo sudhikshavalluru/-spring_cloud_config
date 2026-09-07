@@ -1,0 +1,3 @@
+app.message=hello from spring cloud config server
+app.college=kl university
+app.course=Microservices
